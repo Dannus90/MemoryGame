@@ -4,3 +4,5 @@
  * @author Daniel Persson <dp222jd@lnu.se>
  * @version 1.0.0
  */
+
+import './components/dab-flipping-tile/'
